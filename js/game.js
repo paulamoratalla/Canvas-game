@@ -143,7 +143,7 @@ const strangerStringsGame = {
             }
             if (this.framesIndex > 600) {
 
-                if (this.framesIndex % 80 === 0) {
+                if (this.framesIndex % 70 === 0) {
                     this.createPancakes()
                 }
             }
